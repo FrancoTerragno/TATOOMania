@@ -1,6 +1,6 @@
 Algoritmo TATOOMania
 	// Turnos Tatto Mania
-	Dimension turnos[20] //Turnos ocupados en la semana
+	Dimension turnos[20] 
 	Dimension dias[7] 
 	Dimension horas[2] 
 	Definir diaElegido, horaElegida como cadena
